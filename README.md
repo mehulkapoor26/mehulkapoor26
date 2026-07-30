@@ -39,5 +39,5 @@
 ---
 
 📫 **Connect with me:**  
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mehulkapoor26/  
+- LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mehulkapoor26/  
 - Email: mehulkapoor.26@gmail.com
