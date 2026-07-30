@@ -1,29 +1,45 @@
-# Hi, I'm Mehul 👋
+# Hi there, I'm Mehul Kapoor 👋
 
-A passionate Computer Science student focused on building efficient software, sharpening core low-level logic, and creating clean web interfaces.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** C, Python, JavaScript, HTML5, CSS3
-- **Web Development:** Responsive UI Design, DOM Manipulation, CSS Grid & Flexbox
-- **Cloud & Systems:** Azure Infrastructure, Cloud Basics
-- **Developer Tools:** Git, GitHub, VS Code, macOS / Linux CLI
+🎓 **Computer Science Student** @ Chitkara University  
+💻 Passionate about **Data Structures & Algorithms**, **Software Engineering**, and **Systems Programming**.
 
 ---
 
-### 💻 What I'm Working On
+### 🛠️ Tech Stack & Languages
 
-- 🚀 Strengthening fundamental data structures and algorithms in **C** and **Python**.
-- 🌐 Building modern, responsive web applications using **HTML/CSS/JavaScript**.
-- ☁️ Exploring cloud infrastructure services and deployment models.
+- **Languages:** `Java` | `Python` | `C`
+- **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), File Handling
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code
+- **Operating System:** macOS (Apple Silicon)
+
+---
+
+### 🚀 Projects
+
+#### 📌 [DSA-LeetCode-Solutions](https://github.com/mehulkapoor26/mehulkapoor26)
+> Tracking my daily problem-solving journey in **Java** & **Python** using automated syncs via LeetHub.
+* **Focus:** Space & Time Complexity Optimization, Arrays, HashMaps, Trees, Dynamic Programming.
+
+#### 📌 [Student-Management-System](https://github.com/mehulkapoor26/mehulkapoor26)
+> A CLI-based record management system built during my CodeAlpha Internship.
+* **Features:** Full CRUD operations, persistent data storage via file handling, modular structure.
+
+#### 📌 Forest Fire Detection & Prevention System
+> An algorithm-driven risk assessment model created for an AI/Sustainability Hackathon.
+* **Tech:** Python, Algorithmic Risk Modeling.
 
 ---
 
-### 📫 Connect With Me
+### 📊 GitHub Stats
 
-- **GitHub:** [mehulkapoor26](https://github.com/mehulkapoor26)
-- **LinkedIn:** [Your LinkedIn Profile URL Here]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulkapoor26&show_icons=true&theme=algolia" alt="Mehul's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkapoor26&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
 
 ---
+
+📫 **Connect with me:**  
+- LinkedIn: [Your Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mehulkapoor26/))  
+- Email: [Your Email](mehulkapoor.26@gmail.com)
