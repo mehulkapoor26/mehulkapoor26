@@ -32,12 +32,8 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulkapoor26&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkapoor26&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=mehulkapoor26&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
